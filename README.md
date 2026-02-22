@@ -1,11 +1,12 @@
 🎯 Number Guessing Game
 
 A simple command-line Number Guessing Game built using Python where the computer randomly selects a number within a user-defined range, and the player tries to guess it with hints provided after each attempt.
+
 This project demonstrates the use of loops, conditionals, user input handling, counters, and the random module in Python.
 
 🚀 Features
 1) User selects the difficulty level by defining the upper range
-2) 2) Random number generation using Python’s random module
+2) Random number generation using Python’s random module
 3) Interactive guessing system
 4) Hint system:
 - "Bigger number please" if guess is too low
