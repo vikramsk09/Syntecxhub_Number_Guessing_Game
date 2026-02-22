@@ -5,13 +5,11 @@ This project demonstrates the use of loops, conditionals, user input handling, c
 
 🚀 Features
 1) User selects the difficulty level by defining the upper range
-2) Random number generation using Python’s random module
+2) 2) Random number generation using Python’s random module
 3) Interactive guessing system
-
 4) Hint system:
 - "Bigger number please" if guess is too low
 - "Lesser number please" if guess is too high
-
 5) Tracks total number of attempts
 6) Runs continuously until the correct number is guessed
 
